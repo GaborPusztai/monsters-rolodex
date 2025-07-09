@@ -1,3 +1,3 @@
 Monsters Rolodex  
 
-ZTM REACT Learning project
+ZTM - REACT Learning project
